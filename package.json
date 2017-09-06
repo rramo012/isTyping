@@ -1,0 +1,19 @@
+{
+  "name": "istyping",
+  "version": "1.0.0",
+  "description": "Determine if the user is currently typing",
+  "main": "jquery.is-typing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rramo012/isTyping.git"
+  },
+  "author": "Rafael Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rramo012/isTyping/issues"
+  },
+  "homepage": "https://github.com/rramo012/isTyping#readme"
+}
